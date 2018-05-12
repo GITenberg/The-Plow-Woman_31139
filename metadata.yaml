@@ -1,0 +1,27 @@
+_repo: The-Plow-Woman_31139
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31139-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gates, Eleanor
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '6218'
+    url: http://www.gutenberg.org/2009/agents/6218
+description: ''
+gutenberg_issued: '2010-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31139'
+  lccn: 06034690
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Dakota Territory -- Fiction'
+title: The Plow-Woman
+url: http://www.gutenberg.org/ebooks/31139
